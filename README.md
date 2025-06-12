@@ -154,16 +154,3 @@ If you encounter issues:
 2. Verify your data format and structure
 3. Try with a sample Excel file first
 
-## 🎯 Roadmap
-
-Future enhancements planned:
-- [ ] Support for CSV and other data formats
-- [ ] Advanced statistical analysis tools
-- [ ] Machine learning model integration
-- [ ] Data export capabilities
-- [ ] Custom dashboard layouts
-- [ ] Multi-sheet Excel support
-
----
-
-Built with ❤️ using modern Python data science tools.
